@@ -1,7 +1,7 @@
 # FEM21037
 Computer Science for Business Analytics individual paper
 
-The code presented in this repository is meant for duplicate detection for products in aggregated (different) webshopdata. The code itself contains comments about the steps taken. The lines of code include:
+The code presented in this repository is meant for duplicate detection for products in aggregated (different) webshopdata. The code itself contains comments about the steps taken. Data is attached in the repository. The lines of code include:
 
 - Line 7 - 19: imports of packages
 - Line 20 - 394: various functions that are used
